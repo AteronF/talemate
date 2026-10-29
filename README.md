@@ -2,26 +2,6 @@
 
 Roleplay with AI with a focus on strong narration and consistent world and game state tracking.
 
-<div align="center">
-
-|<img src="docs/img/ss-1.png" width="400" height="250" alt="Screenshot 1">|<img src="docs/img/ss-2.png" width="400" height="250" alt="Screenshot 2">|
-|------------------------------------------|------------------------------------------|
-|<img src="docs/img/ss-3.png" width="400" height="250" alt="Screenshot 3">|<img src="docs/img/ss-4.png" width="400" height="250" alt="Screenshot 4">|
-
-</div>
-
-## Core Features
-
-- Multiple agents for dialogue, narration, summarization, direction, editing, world state management, character/scenario creation, text-to-speech, and visual generation
-- Supports per agent API selection
-- Long-term memory and passage of time tracking
-- Narrative world state management to reinforce character and world truths
-- Creative tools for managing NPCs, AI-assisted character, and scenario creation with template support
-- Node editor for creating complex scenarios and re-usable modules
-- Context management for character details, world information, past events, and pinned information
-- Customizable templates for all prompts using Jinja2
-- Modern, responsive UI
-
 ## Documentation
 
 - [Installation and Getting started](https://vegu-ai.github.io/talemate/)
